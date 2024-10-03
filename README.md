@@ -77,5 +77,28 @@
 
 ![ветка для отчета](screenshots/создание_ветки_для_отчета.png)
 
-### 2.13. 
+## 3. Лог команд
+
+```
+git config --global user.name "4318 Кусякина И.В."
+git config --global user.email irina-kusyakina@yandex.ru
+git config user.name
+git config user.email
+git clone https://github.com/IrinaKusyakinamew/LR6
+git pull origin master
+git checkout master
+git checkout branch1
+git log --oneline
+git show
+git merge branch1
+git status
+git add .
+git commit -m "описание коммита"
+git push origin master
+git push origin --delete branch1
+git reset --hard d8d90
+git checkout -b new_branch
+git push origin new_branch
+
+```
 
