@@ -79,6 +79,8 @@
 
 ## 3. Лог команд
 
+В процессе выполнения лабораторной работы были использованы следующие команды:
+
 ```
 git config --global user.name "4318 Кусякина И.В."
 git config --global user.email irina-kusyakina@yandex.ru
@@ -99,6 +101,8 @@ git push origin --delete branch1
 git reset --hard d8d90
 git checkout -b new_branch
 git push origin new_branch
-
 ```
+
+
+
 
